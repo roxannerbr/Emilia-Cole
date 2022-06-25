@@ -10,3 +10,8 @@ a{
 li{
     list-style: none;
 }
+h1{
+    font-size: 4rem;
+}
+
+/* todos estos cambios son generales y se aplican a todo */

@@ -14,6 +14,7 @@
 }
 .home header nav ul li a{
     color: #6b6b6b;
+    font-family: var(--fuenteSubtitulos);
 }
 .home header nav ul a{
     font-size: 30px;
@@ -22,7 +23,7 @@
     margin-top: 220px;
 }
 .home main h2{
-    margin-bottom: 200px;
+    margin-bottom: 170px;
     margin-left: 30px;
     font-family: var(--fuenteSubtitulos);
     font-size: 60px;
@@ -30,11 +31,7 @@
     letter-spacing: 10px;
 }
 .home main h1{
-    font-size: 100px;
     background-color: #ffffff5c;
-    font-family: var(--fuenteSubtitulos);
+    font-family: var(--fuenteTitulos);
 }
 
-h1{
-    font-size: 3rem;
-}
